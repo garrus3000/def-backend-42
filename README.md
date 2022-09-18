@@ -25,11 +25,11 @@ npm run test:mocha
 ``Test con AXIOS``
 
 
-<img src="./TEST/images/npm_run_test_axios.jpg" alt="npm run test:axios">
+<img src="./TEST/images/npm_run_test_axios.JPG" alt="npm run test:axios"/>
 
 <br>
 
 
 ``Test con MOCHA, CHAI, SUPERTEST``
 
-<img src="./TEST/images/npm_run_test_mocha.jpg" alt="npm run test:mocha">
+<img src="./TEST/images/npm_run_test_mocha.JPG" alt="npm run test:mocha"/>
